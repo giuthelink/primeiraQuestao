@@ -1,1 +1,1 @@
-Escreva aqui sua resposta.
+para coleta das informações, podemos utilizar o back-end, e transformar cada função em uma entidade, depois podemos criar relacionamentos entre as entidades, e definir as chaves primarias e as foreigns keys.
